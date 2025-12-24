@@ -1,56 +1,84 @@
 <div align="center">
-  <h1>👋 Hi, I'm SNEHA GHOSH</h1>
-  <p>🌟 Passionate B.Tech CSE Engineer | 💡 Innovative Problem Solver | 🚀 Tech Enthusiast</p>
-  
-  <a href="www.linkedin.com/in/sneha-ghosh-83b711266">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="[Your Twitter Profile URL]">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge" alt="Twitter">
+  <h1>👋 Hi, I'm Sneha Ghosh</h1>
+  <p>
+    Software Engineering Graduate | Full-Stack Developer | AI & Web Technologies Enthusiast
+  </p>
+
+  <a href="https://www.linkedin.com/in/sneha-ghosh-83b711266">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
   <a href="mailto:snehaghosh125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
   </a>
 </div>
 
-## About Me
+---
 
-🚀 Welcome to my GitHub profile! I'm a passionate CSE Engineer with a relentless drive for innovation. Armed with no experience in this field as I am just a begginer,I am in 2nd Year of my B.Tech Course, I thrive on turning complex challenges into elegant solutions.
+## 👩‍💻 About Me
 
-🌐 My journey in technology has led me to explore fascinating realms such as Web Development and AI, where I continuously push the boundaries of what's possible.
+I am a **motivated and detail-oriented B.Tech Computer Science graduate** with a strong foundation in **software development, full-stack web technologies, and problem-solving**.  
+I enjoy building scalable applications, working with modern frameworks, and applying **object-oriented and data-driven approaches** to real-world problems.
 
-## Notable Projects
+I am continuously learning and seeking opportunities to contribute to **high-quality software solutions** while growing as a professional developer.
 
-📦 Here are a few of my notable projects:
+---
 
-- BasicCalculator(Link to Project 1):Just a try to make something in Web development,this is my First Project of making a Basic Calculator using simple html,Css and JavaScript
--CODEHUB(Link to Project 2): An overview of project 2's significance.
-- [Project 3 Name](Link to Project 3): A glimpse into the achievements of project 3.
+## 🚀 Projects
 
-## Technical Proficiencies
+### 🔹 Prysm – AI-Driven Customer Feedback Analyzer
+- Built an AI-powered system to aggregate and analyze customer feedback from multiple sources.
+- Implemented sentiment analysis, topic clustering using embeddings, and AI-driven insight generation.
+- Developed real-time dashboards and alerts for trend detection and issue monitoring.  
+**Technologies:** React.js, Node.js, Express.js, MongoDB, OpenAI API, NLP, Socket.io, Tailwind CSS
 
-💻 I'm proficient in various technologies, including:
+---
 
-- **Languages:** C,Java,Python,HTML,CSS,JavaScript
-- **Frameworks:** [Frameworks/Tools]
-- **Databases:** [Database Systems]
-- **Other Skills:** [Other Relevant Skills]
+### 🔹 Full-Stack E-Commerce Application (MERN Stack)
+- Developed a full-stack e-commerce web application with product, category, and order management.
+- Implemented secure authentication and authorization using JWT with access and refresh tokens.
+- Designed RESTful APIs and integrated MongoDB for data persistence.  
+**Technologies:** MongoDB, Express.js, React.js, Node.js, REST APIs, JWT
 
-## Let's Connect
+---
 
-📫 Feel free to reach out and connect:
+### 🔹 Quizmate – Java MCQ Online Test Application
+- Developed a desktop-based MCQ test application with timed assessments and automatic result evaluation.
+- Designed interactive navigation and applied OOP concepts for question and result management.  
+**Technologies:** Core Java, Java Swing, AWT, OOP Concepts
 
-- **GitHub:** [Your GitHub Profile URL]
-- **LinkedIn:** www.linkedin.com/in/sneha-ghosh-83b711266
-- **Email:** snehaghosh125@gmail.com
-- **Twitter:** [Your Twitter Profile URL]
+---
 
-## GitHub Activity
+## 🛠 Technical Skills
 
-📊 A quick look at my GitHub activity:
+- **Programming Languages:** Java, Python, C  
+- **Frontend:** HTML5, CSS3, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Vercel  
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+---
 
-🔝 My most used programming languages:
+## 📜 Certifications & Achievements
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+- Certified in **Java, HTML & CSS, JavaScript, React.js, Node.js, SQL**
+- Participated in **SIH Hackathon 2023**, **Bharatiya Antariksh Hackathon 2025**, **Xelerate Hackathon 2025**
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/sneha-ghosh-83b711266  
+- **Email:** snehaghosh125@gmail.com  
+- **GitHub:** https://github.com/your-github-username  
+
+---
+
+## 📊 GitHub Stats
+
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)
